@@ -24,7 +24,7 @@ Airline Management System is a desktop-based application that allows a user to a
 i. Clone the git repo
 
 ```
-https://github.com/AAdewunmi/Airline-Management-System.git
+https://github.com/Prasanna95-gif/airlines-management-system/blob/main/src/README.md
 ```
 
 ii. Open project folder
@@ -90,15 +90,20 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 8. Adapted From: 
 
-UDEMY: 45 Real World Java Development Projects Bootcamp Course 2022
-
-Java Programming Course: Learn Development Of JAVA Projects Using JSP,JDBC, Servlets, Swing, Spring Boot, Maven, Hibernate
-
 Project Name: Project 3: Airline Management System
 
-Created by: Engineering.Org.In
+Last updated: 29/06/2025
 
-Last updated: 09/2022
+https://github.com/Prasanna95-gif/airlines-management-system/blob/main/src/README.md
 
-URL: https://www.udemy.com/course/java-programming-project-using-jsp-jdbc-servlets/
+Created by: LTVIP2025TMID29191
+
+
+
+Team members:
+   Meesala Prasanna
+   Ganta Sukanya
+   Alapana Karthik Kiriti Kaushik
+   Avanapu Ganesh
+   B Sai Bhasker
 
