@@ -101,9 +101,9 @@ Created by: LTVIP2025TMID29191
 
 
 Team members:
-   Meesala Prasanna
-   Ganta Sukanya
-   Alapana Karthik Kiriti Kaushik
-   Avanapu Ganesh
-   B Sai Bhasker
+   Meesala Prasanna,
+   Ganta Sukanya,
+   Alapana Karthik Kiriti Kaushik,
+   Avanapu Ganesh,
+   B Sai Bhasker.
 
